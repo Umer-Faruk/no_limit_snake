@@ -1,3 +1,3 @@
 # no_limit_snake
 
-![alt text](https://github.com/[Umer-Faruk]/[no_limit_snake]/blob/[master]/image.png?raw=true)
+![alt text](https://github.com/Umer-Faruk/no_limit_snake/blob/master/image.png?raw=true)
