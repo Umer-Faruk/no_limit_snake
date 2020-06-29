@@ -130,8 +130,8 @@ def main():
 
          
           message("Score:"+str(s.score),(255,255,0),0,0)
-          message("i +speed",(255,255,0),650,0)
-          message("d --speed",(255,255,0),650,50)
+          #message("i +speed",(255,255,0),650,0)
+          #message("d --speed",(255,255,0),650,50)
           message("spped "'{:.2f}'.format(s.speed),(255,255,0),0,50)
               
 
